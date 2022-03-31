@@ -1,4 +1,5 @@
 # Hacker's One Command ;)
+Find some useful commands to automate hacking (1 command to automate everything). If you found it useful, feel free to [star](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars) it!
 
 ## Bug bounty
 - **Command 1**
