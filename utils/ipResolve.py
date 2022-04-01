@@ -1,5 +1,8 @@
-with open("hosts.txt", 'r') as file:
+with open("subdomains.txt", 'r') as file:
   for line in file:
-    line = line.replace("\n", '')
-    ip = socket.gethostbyname(line)
-    print(ip + ": " + line)
+    try:
+      line = line.replace("\n", '')
+      ip = socket.gethostbyname(line)
+      print(line + ": " + ip)
+     except:
+       pass
