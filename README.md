@@ -11,6 +11,7 @@ Find some useful commands to automate hacking (1 command to automate everything)
     - Wget
     - Python 3
     - Nmap
+    - waybackurls
   - Breakdown
     - Runs amass to find subdomains of domains listed in domains.txt (make sure you create it)
     - Run httpx to get live URLs
